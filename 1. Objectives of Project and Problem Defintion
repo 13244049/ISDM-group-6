@@ -1,0 +1,20 @@
+1. Outline the objectives of the project and define the problems. (Steps 1&2  of Design Thinking Methodology)
+
+Objectives:
+Develop an information system to imrpove the operation of their in-house call management centre.
+Provide assistance for Relationship Managers to improve call routing and dynamic call flow control for both inbound and outbound calls.
+Match Relationship Managers with customers acccording to specific skills and specific customer profiles.
+
+Segment customer database into social and cultural in relation to their postcodes and surnames. Done through profiler tool.
+Matching technique between customer and RM may depend on age, sex, culture, language proficiency, experience and product knowledge.
+
+Create initial RM profiles through questionnaire and adjust on selling performance.
+
+System dials numbers automatically through a target list generated. Displays to RM details with guidelines and a script.
+System creates a TARGET LIST for each RM dependent  on skills and profile.
+
+Inbound calls, customers are segregrated into scores justifed by their likelihood to purchase a product. These are then ordered according to these
+scores and are servered sequentially. These scored can be based on repeat customers and post codes etc.
+- Customers with scores are directed to RM's skill level and best match accordingly.
+
+
