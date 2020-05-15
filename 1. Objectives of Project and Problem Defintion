@@ -1,6 +1,6 @@
 1. Outline the objectives of the project and define the problems. (Steps 1&2  of Design Thinking Methodology)
 
-Objectives:
+Objectives (summary):
 Develop an information system to imrpove the operation of their in-house call management centre.
 Provide assistance for Relationship Managers to improve call routing and dynamic call flow control for both inbound and outbound calls.
 Match Relationship Managers with customers acccording to specific skills and specific customer profiles.
@@ -17,4 +17,16 @@ Inbound calls, customers are segregrated into scores justifed by their likelihoo
 scores and are servered sequentially. These scored can be based on repeat customers and post codes etc.
 - Customers with scores are directed to RM's skill level and best match accordingly.
 
+
+Objectives Problem defintion (Empathy Map + Case Study)
+Objs:
+To develop and implement an information system that will enhance the call management centre operation and provide a satisfactory experience to both customers and employees.
+Improve dynamic call flow control between Relationship managers and customers and match profiles based on specific characteristics eg. language and age to ensure customer sale and retention.
+Segment relationship managers to experienced knowledge of specific holiday packages and connect them to interested customers to allow for easy communication between them concerning their interest.
+Assist Relationship managers with information regarding guidelines and script to help them make sales and allow for a higher chance of customer satisfaction.
+Build relationship manager profiles and customer profiles in a database and adjust accordingly.
+Create a clear and distinct outbound call system to ensure customers they have called the right location and keep them on the line.
+
+Problems statement (perspective of development team)
+The travel company needs a information system that will enhance their in-house call management centre to assist and allow for clear and easier communication between the relationship manager and the customers to ultimately result in customer retention and satisfaction.
 
