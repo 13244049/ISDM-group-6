@@ -17,3 +17,20 @@ The main stakeholders concerning the information system are the relationship man
 
 <h1>Design Thinking
 
+Design thinking promotes people-oriented design. In the first step of understanding the problem we want to solve, design thinking brings us to a higher metacognitive learning state of empathy. We need to understand the user's mentality, hence its importance. We need to tap into their feelings and emotions in order to immerse into their values.
+
+In the second phase, we externalize these findings and re-examine the problem set. Putting them in the context of POV ("point of view") and HMW ("how are we possible ...?") is a powerful method of projecting new light onto the many scattered inputs collected during the empathy phase.
+
+The third stage of the solution conception phase is only after investing a lot of energy to understand the user and determine the correct problem to be solved. We apply different kinds of user case diagrams and empathy maps to demonstrate the relationship between customer and manager.
+
+By analysing the needs of stakeholders, it can be observed that customers want to be served in a timely manner. We can conclude that there are two aspects that we can take into consideration to improve the efficiency between customer and manager. An improvement that can be implemented within the system is a reminder, which will be displayed on the administrator’s screen to notify them that a customer has recently dialed but has not yet been served. This notification can pop up on the manager ’s screen to notify them that they have been blocked on the call to remind them that there are customers waiting for service. Another idea is to divide managers into groups based on the type of client requests. This will create a more efficient system and reduce the queue time when waiting for customers to match their assigned managers.
+
+Our use case diagram is mainly used to illustrate the main event flow of the system. It is mainly used to describe the needs of customers, that is, the actions that users want the system to complete certain functions. It is commonly understood that use cases are functional modules of software, so they are designed for system analysis.
+
+The activity diagrams depict the various activities that occur throughout the operation of the new system. It shows how the system interacts with the customers and managers and provides an overview of the processes that are initiated in the order in which they occur.
+
+The class diagrams formed represent the structure of the new system. It identifies the classes and attributes within the new system, and depicts the relationship between each class to show a detailed visual on how the different classes interact with each other.
+
+The collaboration diagrams depict how objects in a specific use case interact with each other. It identifies the roles and presents the logical flow of events throughout the use case and provides a visual aid for how these flows of events occur.
+ 
+
