@@ -25,18 +25,35 @@ The third stage of the solution conception phase is only after investing a lot o
 
 By analysing the needs of stakeholders, it can be observed that customers want to be served in a timely manner. We can conclude that there are two aspects that we can take into consideration to improve the efficiency between customer and manager. An improvement that can be implemented within the system is a reminder, which will be displayed on the administrator’s screen to notify them that a customer has recently dialed but has not yet been served. This notification can pop up on the manager ’s screen to notify them that they have been blocked on the call to remind them that there are customers waiting for service. Another idea is to divide managers into groups based on the type of client requests. This will create a more efficient system and reduce the queue time when waiting for customers to match their assigned managers.
 
-Our use case diagrams are mainly used to illustrate the main event flow of the system. It is mainly used to describe the needs of customers, that is, the actions that users want the system to complete certain functions. It is commonly understood that use cases are functional modules of software, so they are designed for system analysis.
+The main user stories formed from designing thinking are as follows:
+1. As a customer, I want to be assisted by a manager who is knowledgeable in the specific area that I am interested in so that I can get the best deals.
 
-![Use Case Diagram 1](https://drive.google.com/file/d/1DnWUnJ878kO-VEIgrotHc0jKc2pWaLdt/view?usp=sharing)
-<img src="./Use Case Diagram 2.png">
-<img src="./Use Case Diagram 3.png">
-<img src="./Use Case Diagram 4.png">
+2. As a customer, I do not want to have to follow up several calls so that I can get all the information I need.
+
+3. As a manager, I want to attend to any customers who are currently unassisted and are waiting in the queue so that they are not left waiting.
+
+4. As a manager, I want connect with new customers so that I can advertise the holiday deals and packages.
+
+Our use case diagrams illustrate the main event flow of the system in regards to the respective use cases. It is mainly used to describe the needs of customers, that is, the actions that users want the system to complete certain functions. It is commonly understood that use cases are functional modules of software, so they are designed for system analysis.
+
+![Use Case Diagram 1](https://user-images.githubusercontent.com/62336231/83417360-51d83f00-a465-11ea-991f-8650f5fe5ca5.png)
+![Use Case Diagram 2](https://user-images.githubusercontent.com/62336231/83417361-51d83f00-a465-11ea-8b39-544731c68c5d.png)
+![Use Case Diagram 3](https://user-images.githubusercontent.com/62336231/83417363-5270d580-a465-11ea-9c1c-3d63afbbd357.png)
+![Use Case Diagram 4](https://user-images.githubusercontent.com/62336231/83417366-53096c00-a465-11ea-9c4c-1b3bad9d9b07.png)
 
 The activity diagrams depict the various activities that occur throughout the operation of the new system. It shows how the system interacts with the customers and managers and provides an overview of the processes that are initiated in the order in which they occur.
 
-The class diagrams formed represent the structure of the new system. It identifies the classes and attributes within the new system, and depicts the relationship between each class to show a detailed visual on how the different classes interact with each other.
+![Activity Diagram 1](https://user-images.githubusercontent.com/62336231/83417350-4edd4e80-a465-11ea-897c-03fa55e0bda5.png)
+![Activity Diagram 2](https://user-images.githubusercontent.com/62336231/83417352-500e7b80-a465-11ea-84de-8287e50c0396.png)
+
+The class diagram formed represents the structure of the new system. It identifies the classes and attributes within the new system, and depicts the relationship between each class to show a detailed visual on how the different classes interact with each other.
+
+![Class Diagram](https://user-images.githubusercontent.com/62336231/83417355-50a71200-a465-11ea-89a8-834851406784.png)
 
 The collaboration diagrams depict how objects in a specific use case interact with each other. It identifies the roles and presents the logical flow of events throughout the use case and provides a visual aid for how these flows of events occur.
+
+![Collaborative Diagram 1](https://user-images.githubusercontent.com/62336231/83417357-513fa880-a465-11ea-885a-ebeb336eac62.png)
+![Collaborative Diagram 2](https://user-images.githubusercontent.com/62336231/83417359-513fa880-a465-11ea-8a36-73f090c3d18a.png)
 
 <h1>Scrum Activities
 
