@@ -1,23 +1,24 @@
-<h1>Executive Summary
+# Executive Summary
 
 The report will address the proposal and development of a new system to improve the current call management centre (CMC) of a travel company. It will outline the objectives the system will aim to achieve, as well as identify the relevant stakeholders associated with the system. The report further describes the design thinking approach that was undertaken to establish ideation based on the requirements of stakeholders. The different scrum activities will be listed and a discussion of the competitive advantages and adverse effects will be examined if the new system fails.
 
-<h1>Introduction
+# Introduction
 
 The travel company is currently using a CMC to sell holiday packages to customers. The CMC contacts customers via inbound and outbound calls to advertise the holiday packages and will route a manager to a customer if they have inquiries about the offers. The company wants an updated system that will be able to efficiently route managers to serve customers. The proposal of a new system has been acknowledged and a new system has been in development to address the issue of inefficiency in order to be able to serve more customers. The new system will be developed to achieve the company’s objectives and improve its overall performance to achieve a competitive advantage in the industry. However, the introduction of a new system poses many risks if the system fails, which can internally and externally affect the operation of the company.
 
-<h1>Objectives
+# Objectives
 
 The overall objective of this project is to develop and implement an information system that will enhance the call management center operation and provide a satisfactory experience to both customers and employees. This information system will improve the dynamic call flow control between relationship managers and customers and also match created profiles based on specific characteristics, for example, language proficiencies and age to ensure a higher chance of customer sale and retention. We will need to segment relationship managers based on their expertise and specific knowledge of holiday packages and connect them to interested customers to allow for easy communication regarding their interest. The information system must assist relationship managers with information and guidelines to help them make sales, create accurate up to date profiles, and store them in a database for usage. A clear and distinct outbound call system must also be designed to ensure customers have called the right location and keep them on the line.
 
 Thus, the problem statement defined is as follows: The travel company needs an information system that will enhance their in-house call management centre to assist and allow for precise and more comfortable communication between the relationship manager and the customers to result in customer retention and satisfaction.
 
-<h1>Stakeholders
+
+# Stakeholders
 
 The main stakeholders concerning the information system are the relationship managers. They have a significant impact on the system as they will be the leading group to utilise the system and be trained with the knowledge to perform its functions successfully. Executives of the organisation are also stakeholders with high power and high interest as they have a vested business interest in regards to the success of the project and will make the ultimate decision regarding the start and end of the project. Customers and the company itself are stakeholders due to their ability to be heavily impacted by the service. Customers are the main target to satisfy, and in developing the system, we must emphasise with customers to reach our end objectives of customer satisfaction and retention. Additionally, the development team is also considered stakeholders as they are responsible for the creation and implementation of the new system. Their duty is to identify the needs of the company, customers, and managers to create a solution that satisfies all their requirements.
 
-<h1>Design Thinking
 
+# Design Thinking
 Design thinking promotes a people-oriented design. In the first step of understanding the problem we want to solve, design thinking brings us to a higher metacognitive learning state of empathy. We need to understand the user's mentality, hence its importance. We need to tap into their feelings and emotions in order to immerse ourselves into their values.
 
 In the second phase, we externalize these findings and re-examine the problem set. Putting them in the context of POV ("point of view") and HMW ("how are we possible ...?") is a powerful method of projecting new light onto the many scattered inputs collected during the empathy phase.
@@ -36,6 +37,8 @@ The main user stories formed from designing thinking process are as follows:
 
 4. As a manager, I won't connect with new customers so that I can advertise the holiday deals and packages.
 
+
+## Use Case Diagrams
 Our use case diagrams illustrate the main event flow of the system in regard to the respective use cases. It is mainly used to describe the needs of customers, that is, the actions that users want the system to complete certain functions. It is commonly understood that use cases are functional modules of software, so they are designed for system analysis.
 
 ![Use Case Diagram 1](https://user-images.githubusercontent.com/62336231/83417360-51d83f00-a465-11ea-991f-8650f5fe5ca5.png)
@@ -43,27 +46,35 @@ Our use case diagrams illustrate the main event flow of the system in regard to 
 ![Use Case Diagram 3](https://user-images.githubusercontent.com/62336231/83417363-5270d580-a465-11ea-9c1c-3d63afbbd357.png)
 ![Use Case Diagram 4](https://user-images.githubusercontent.com/62336231/83417366-53096c00-a465-11ea-9c4c-1b3bad9d9b07.png)
 
+
+## Activity Diagrams
 The activity diagrams depict the various activities that occur throughout the operation of the new system. It shows how the system interacts with the customers and managers and provides an overview of the processes that are initiated in the order in which they occur.
 
 ![Activity Diagram 1](https://user-images.githubusercontent.com/62336231/83417350-4edd4e80-a465-11ea-897c-03fa55e0bda5.png)
 ![Activity Diagram 2](https://user-images.githubusercontent.com/62336231/83417352-500e7b80-a465-11ea-84de-8287e50c0396.png)
 
-The class diagram formed represents the structure of the new system. It identifies the classes and attributes within the new system and depicts the relationship between each class to show a detailed visual on how the different classes interact with each other.
+
+## Class Diagrams
+The class diagram formed represents the structure of the new system. It identifies the classes and attributes within the new system and depicts the relationship between each class to show a detailed visual of how the different classes interact with each other.
 
 ![Class Diagram](https://user-images.githubusercontent.com/62336231/83417355-50a71200-a465-11ea-89a8-834851406784.png)
 
+
+## Collaboration Diagrams
 The collaboration diagrams depict how objects in a specific use case interact with each other. It identifies the roles and presents the logical flow of events throughout the use case and provides a visual aid for how these flows of events occur.
 
 ![Collaborative Diagram 1](https://user-images.githubusercontent.com/62336231/83417357-513fa880-a465-11ea-885a-ebeb336eac62.png)
 ![Collaborative Diagram 2](https://user-images.githubusercontent.com/62336231/83417359-513fa880-a465-11ea-8a36-73f090c3d18a.png)
 
-<h1>Scrum Activities
+
+# Scrum Activities
 
 Scrum is the framework of organization and management. Scrum framework is based on a set of values, principles, and practices. The company has added special engineering practices and specific methods to realize scrum practice. The result is a version of the scrum that is unique and specific so that there is a process that suits us. Through scrum activities, our manager can get in touch with customers in a time when they are free, and when they are busy, customers can be transferred to other managers which can improve efficiency. And we can have more knowledge of how customers think and what they want to do, in this way the manager can give feedback to customers on time.
 
 Our group adopted many scrum activities to assist in the development of the new system. By creating a backlog using GitHub, we were able to keep track of all the updates that had been contributed towards the new system. This further assisted us in the formation of our user stories as we were able to backtrack to the empathy maps to identify the different users and what they expected from the new system. We had several scrum meetings throughout the week where we discussed any changes that were made towards the development of the system. The majority of these changes were minor and did not deter us from creating a solution that addresses the needs of customers and managers, but the travel company itself. Our team also established sprints that were based on the different aspects of the project such as the different diagrams. We knew that the diagrams would take some time to complete, hence why we strategically planned out when these should be completed to establish an estimate of where we project should be at that point in time. We concluded our design thinking process with a scrum review, where all group members discussed what they thought about the new system and provided feedback to make the new system more efficient in its operations.
 
-<h1>Competitive Advantages
+
+# Competitive Advantages
 
 In the events of a successful project, the call management centre will be able to more efficiently route customers to the appropriate managers so that they can fulfil the customer's requests. From the use cases created, customers, have identified that they do not want to wait in a queue for an extended period before being attended and to also not make any follow-up calls after the current session has ended. By developing the new system it allows the requirements of the customers to be satisfied promptly, which can, therefore, create a good business reputation for the travel company.
 
@@ -71,15 +82,18 @@ A new reminder system will be introduced to allow managers always to be alerted 
 
 The new information system will also assist and support all employees and managers via providing on-demand information and guidelines to help to maximise the success of customer satisfaction and retention. This information may display current packages, special discounts, or the customer profile in detail to further increase the understanding of the customer relationship by the employees, allowing them to use this information when communicating. This highly individualised and curated system will further differentiate themselves from competitors with exemplary customer service that will provide a significant competitive advantage.
  
-<h1>Adverse Effects
+
+# Adverse Effects
 
 In the case of a failure in the implementation of the information system, a significant number of consequences will occur. A considerable amount of time and money invested in the project will have been wasted, which may cause a substantial impact on business development and stall growth or even cause regression. Financial costs concerning interruption of services, productivity due to loss of morale and personnel to fix the issue, and even reverting to an original system will be involved that will cause substantial financial and time loss. Overall, this can also cause damage to the company's brand reputation if services were to stall as an incident involving failure will not inspire customer motivation and cause further damage to the company's development.
 
-<h1>Conclusion
+
+# Conclusion
 
 The success of the implemented CMC will most certainly provide significant competitive advantages as well as streamline their business processes and greatly enhance their capacity for the future development and growth of the organisation. However, in the case of a failure, several consequences will occur. Our design thinking methodology beginning with empathy maps and user stories have allowed us to identify Stakeholders and their requirements have been analysed and taken into account in developing the project. We have developed multiple diagrams that communicate a clear overview of the purpose, foundations, and variables of the system and as a result, will hopefully contribute to the success in the final implementation of the system.
 
-<h1>Appendices
+
+# Appendices
 
 Appendix 1: The presentation can be accessed from [this link](https://www.youtube.com/watch?v=GZrOzWxmhfI&feature=youtu.be&fbclid=IwAR0qOGixLS7aev1vMEvOE7LAvcnQ4RCe8vu9xrG0nSnCQaUZSG6JDtFUR1U)
 
