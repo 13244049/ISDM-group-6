@@ -37,6 +37,8 @@ The main user stories formed from designing thinking process are as follows:
 
 4. As a manager, I won't connect with new customers so that I can advertise the holiday deals and packages.
 
+From these user stories, diagrams (see Appendix 2) were created to visualise the interaction and relationships between the customer and manager across the new information system.
+
 
 ## Use Case Diagrams
 Our use case diagrams illustrate the main event flow of the system in regard to the respective use cases. It is mainly used to describe the needs of customers, that is, the actions that users want the system to complete certain functions. It is commonly understood that use cases are functional modules of software, so they are designed for system analysis.
@@ -97,6 +99,6 @@ The success of the implemented CMC will most certainly provide significant compe
 
 Appendix 1: The presentation can be accessed from [this link](https://www.youtube.com/watch?v=GZrOzWxmhfI&feature=youtu.be&fbclid=IwAR0qOGixLS7aev1vMEvOE7LAvcnQ4RCe8vu9xrG0nSnCQaUZSG6JDtFUR1U)
 
-Appendix 2: Higher quality images of the diagram can be found [here](https://github.com/13244049/ISDM-group-6/issues/6)
+Appendix 2: Full sized diagrams can be found [here](https://github.com/13244049/ISDM-group-6/issues/6)
  
 
